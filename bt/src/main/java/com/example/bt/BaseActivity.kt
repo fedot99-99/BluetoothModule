@@ -12,5 +12,6 @@ class BaseActivity : AppCompatActivity() {
         //initRcView()
         supportFragmentManager.beginTransaction()
             .replace(R.id.placeHolder, DeviceListFragment()).commit()
+        //fsdhfkjsdhlf
     }
 }
